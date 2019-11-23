@@ -1,3 +1,9 @@
 language: node_js
 node_js:
- - node
+  - lts/*
+services:
+  - mongodb
+os:
+  - 'linux'
+  - 'osx'
+  - 'windows'
