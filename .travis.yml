@@ -1,7 +1,8 @@
+# CHECK: https://flaviocopes.com/jest/
+
 language: node_js
 node_js:
   - lts/* # to get the latest node
 os:
   - 'linux'
-  - 'osx'
   - 'windows'
