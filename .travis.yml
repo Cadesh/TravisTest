@@ -7,3 +7,6 @@ os:
   - 'linux'
   - 'osx'
   - 'windows'
+env:
+  - SH=bash
+  - PACKAGE_VERSION="1.0.*"
