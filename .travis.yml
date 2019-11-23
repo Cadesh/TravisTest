@@ -1,12 +1,1 @@
 language: node_js
-node_js:
-  - lts/*
-services:
-  - mongodb
-os:
-  - 'linux'
-  - 'osx'
-  - 'windows'
-env:
-  - SH=bash
-  - PACKAGE_VERSION="1.0.*"
